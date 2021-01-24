@@ -1,0 +1,360 @@
+{
+  "gorgonmod:Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "gorgonmod:Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "gorgonmod:SnakeSkin": {
+    "NAME": "Snake Skin",
+    "DESCRIPTION": "Reduce all your HP loss by 1."
+  },
+  "gorgonmod:Deathstare": {
+    "NAME": "Deathstare",
+    "DESCRIPTION": "Enemy loses !M! Strength this turn. NL Gain !deathGaze! gorgonmod:Deathgaze."
+  },
+  "gorgonmod:ScaleShrapnel": {
+    "NAME": "Scale Shrapnel",
+    "DESCRIPTION": "Lose 3 HP. NL Deal !D! damage to ALL enemies."
+  },
+  "gorgonmod:Beamburn": {
+    "NAME": "Beamburn",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !B! Block."
+  },
+  "gorgonmod:Zap": {
+    "NAME": "Zap",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !deathGaze! gorgonmod:Deathgaze."
+  },
+  "gorgonmod:Snakebite": {
+    "NAME": "Snakebite",
+    "DESCRIPTION": "Activate the enemy's Poison. NL Deal !D! damage."
+  },
+  "gorgonmod:Bloodcast": {
+    "NAME": "Bloodcast",
+    "DESCRIPTION": "Lose 3 HP. NL ALL enemies lose !M! Strength this turn."
+  },
+  "gorgonmod:Stoneglare": {
+    "NAME": "Stoneglare",
+    "DESCRIPTION": "Gain !B! Block. NL Gain !deathGaze! gorgonmod:Deathgaze."
+  },
+  "gorgonmod:Bloodshield": {
+    "NAME": "Bloodshield",
+    "DESCRIPTION": "Lose 3 HP. NL Gain !B! Block."
+  },
+  "gorgonmod:Flamelock": {
+    "NAME": "Flamelock",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Temporary_HP."
+  },
+  "gorgonmod:HardenSkin": {
+    "NAME": "Harden Skin",
+    "DESCRIPTION": "Gain !M! Temporary_HP."
+  },
+  "gorgonmod:BlazingEyes": {
+    "NAME": "Blazing Eyes",
+    "DESCRIPTION": "Gain !deathGaze! gorgonmod:Deathgaze."
+  },
+  "gorgonmod:Shielded": {
+    "NAME": "Shielded",
+    "DESCRIPTION": "Gain !B! Block. NL Gain !M! Temporary_HP."
+  },
+  "gorgonmod:Refreshment": {
+    "NAME": "Refreshment",
+    "DESCRIPTION": "Gain !M! Temporary_HP. NL Draw 2 cards."
+  },
+  "gorgonmod:Triposte": {
+    "NAME": "Triposte",
+    "DESCRIPTION": "Lose 3 HP. NL Deal !D! damage. NL Gain !B! Block."
+  },
+  "gorgonmod:Shocker": {
+    "NAME": "Shocker",
+    "DESCRIPTION": "Deal !D! damage. NL Enemy loses !M! Strength this turn."
+  },
+  "gorgonmod:Meditate": {
+    "NAME": "Meditate",
+    "DESCRIPTION": "Gain !B! Block. NL Next turn, draw 1 additional card."
+  },
+  "gorgonmod:DarkPresence": {
+    "NAME": "Dark Presence",
+    "DESCRIPTION": "ALL enemies lose !M! Strength this turn. NL Gain !deathGaze! gorgonmod:Deathgaze."
+  },
+  "gorgonmod:Concentrate": {
+    "NAME": "Fixation",
+    "DESCRIPTION": "Return a card from your discard pile to your hand. NL Gain !deathGaze! gorgonmod:Deathgaze."
+  },
+  "gorgonmod:Blazeblast": {
+    "NAME": "Blazeblast",
+    "DESCRIPTION": "Enemy loses !M! Strength this turn. NL Deal !D! damage."
+  },
+  "gorgonmod:Blare": {
+    "NAME": "Blare",
+    "DESCRIPTION": "Gain !M! Temporary_HP. NL Gain !deathGaze! gorgonmod:Deathgaze."
+  },
+  "gorgonmod:Seduce": {
+    "NAME": "Seduce",
+    "DESCRIPTION": "Lose 3 HP. NL Enemy loses HP equal to its attacking intent.",
+    "UPGRADE_DESCRIPTION": "Lose 3 HP. NL ALL enemies lose HP equal to their attacking intent."
+  },
+  "gorgonmod:Tickle": {
+    "NAME": "Tickle",
+    "DESCRIPTION": "Steal the enemy's Block. NL Deal !D! damage."
+  },
+  "gorgonmod:Bzzt": {
+    "NAME": "Bzzt",
+    "DESCRIPTION": "At the end of your turn, deal !M! damage to ALL enemies."
+  },
+  "gorgonmod:EyeBeam": {
+    "NAME": "Eye Beam",
+    "DESCRIPTION": "Deal damage equal to your gorgonmod:Deathgaze.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Deals !D! damage.)"
+    ]
+  },
+  "gorgonmod:SeenInHalf": {
+    "NAME": "Seen In Half",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy has positive Strength, it loses its Strength this turn."
+  },
+  "gorgonmod:Bloodsight": {
+    "NAME": "Bloodsight",
+    "DESCRIPTION": "Lose 3 HP. NL Draw !M! cards."
+  },
+  "gorgonmod:Revolve": {
+    "NAME": "Revolve",
+    "DESCRIPTION": "Whenever you lose HP, draw 1 card."
+  },
+  "gorgonmod:LifeDrain": {
+    "NAME": "Life Drain",
+    "DESCRIPTION": "Enemy loses !deathGaze! HP. NL Gain !M! Temporary_HP."
+  },
+  "gorgonmod:Snakestance": {
+    "NAME": "Snake Stance",
+    "DESCRIPTION": "At the end of your turn, gain 2 Temporary_HP."
+  },
+  "gorgonmod:Bloodguard": {
+    "NAME": "Blood Guard",
+    "DESCRIPTION": "Lose 3 HP. NL Gain !M! Temporary_HP."
+  },
+  "gorgonmod:Bloonderstanding": {
+    "NAME": "Blooderstanding",
+    "DESCRIPTION": "Lose 3 HP. NL Gain [E] .",
+    "UPGRADE_DESCRIPTION": "Lose 3 HP. NL Gain [E] [E] ."
+  },
+  "gorgonmod:Sightsing": {
+    "NAME": "Sightsing",
+    "DESCRIPTION": "Gain X gorgonmod:Deathgaze 3 times. Enemy loses X Strength this turn 3 times.",
+    "UPGRADE_DESCRIPTION": "Gain X+1 gorgonmod:Deathgaze 3 times. Enemy loses X+1 Strength this turn 3 times."
+  },
+  "gorgonmod:Pyroball": {
+    "NAME": "Pyroball",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !deathGaze! gorgonmod:Deathgaze."
+  },
+  "gorgonmod:StealingStare": {
+    "NAME": "Stealing Stare",
+    "DESCRIPTION": "Enemy loses !M! Strength this turn. NL Gain !M! Temporary_HP."
+  },
+  "gorgonmod:Accelerate": {
+    "NAME": "Accelerate",
+    "DESCRIPTION": "Draw 2 cards. NL Gain [E]. NL Enemy gains 2 Strength.",
+    "UPGRADE_DESCRIPTION": "Draw 2 cards. NL Gain [E] [E] . NL Enemy gains 2 Strength."
+  },
+  "gorgonmod:Postpone": {
+    "NAME": "Postpone",
+    "DESCRIPTION": "Gain !B! Block. NL Enemy gains 2 Strength."
+  },
+  "gorgonmod:Constrain": {
+    "NAME": "Constrain",
+    "DESCRIPTION": "Deal !D! damage. NL Enemy gains 2 Strength."
+  },
+  "gorgonmod:Dualslash": {
+    "NAME": "Dualslash",
+    "DESCRIPTION": "Lose 3 HP. NL Enemy loses !M! HP."
+  },
+  "gorgonmod:Cripple": {
+    "NAME": "Cripple",
+    "DESCRIPTION": "Enemy loses !M! Strength for 2 turns."
+  },
+  "gorgonmod:Blunder": {
+    "NAME": "Blunder",
+    "DESCRIPTION": "Deal !D! damage. NL If this kills an enemy, gain !M! Temporary_HP."
+  },
+  "gorgonmod:AllomanticCircle": {
+    "NAME": "Allomantic Circle",
+    "DESCRIPTION": "Whenever you lose HP or Block this turn, deal !M! damage to ALL enemies."
+  },
+  "gorgonmod:CursedPiercing": {
+    "NAME": "Cursed Piercing",
+    "DESCRIPTION": "Deal !D! damage. NL In 2 turns, play a Cursed Piercing."
+  },
+  "gorgonmod:Backslash": {
+    "NAME": "Backslash",
+    "DESCRIPTION": "Deal !D! damage twice. NL Damage is also affected by enemy's Strength."
+  },
+  "gorgonmod:Guarded": {
+    "NAME": "On Guard",
+    "DESCRIPTION": "Gain !B! Block. NL Whenever you lose HP this turn, gain !M! Block next turn."
+  },
+  "gorgonmod:WaterLevel": {
+    "NAME": "Water Level",
+    "DESCRIPTION": "Grave. NL At the start of your turn, deal 5 damage to all enemies and increase this damage by 5.",
+    "UPGRADE_DESCRIPTION": "At the start of your turn, deal 5 damage to all enemies and increase this damage by 5."
+  },
+  "gorgonmod:ForbiddenMagic": {
+    "NAME": "Forbidden Magic",
+    "DESCRIPTION": "Apply !M! Weak. NL Apply !M! Vulnerable. NL Exhaust a card in your hand."
+  },
+  "gorgonmod:MirrorShield": {
+    "NAME": "Mirror Shield",
+    "DESCRIPTION": "Reflect Weak and Vulnerable this turn."
+  },
+  "gorgonmod:Ironshield": {
+    "NAME": "Binlor's Ironshield",
+    "DESCRIPTION": "Gain !M! Temporary_HP.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Gain !M! Temporary_HP."
+  },
+  "gorgonmod:ParalyzingStare": {
+    "NAME": "Paralyzing Stare",
+    "DESCRIPTION": "Stun the enemy for 1 turn. NL Increase this card's cost by 1 this combat.",
+    "UPGRADE_DESCRIPTION": "Stun ALL enemies for 1 turn. NL Increase this card's cost by 1 this combat."
+  },
+  "gorgonmod:Cliposte": {
+    "NAME": "Cliposte",
+    "DESCRIPTION": "Lose 4 HP. NL Deal !D! damage. NL Gain !B! Block."
+  },
+  "gorgonmod:PrestoCurse": {
+    "NAME": "Presto! Curse",
+    "DESCRIPTION": "Enemy loses !M! HP at the start of each of its turns.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Enemy loses !M! HP at the start of each of its turns."
+  },
+  "gorgonmod:MasterfulStab": {
+    "NAME": "Masterful Stab???",
+    "DESCRIPTION": "Can only be played if you have exactly 2 cards in your hand. NL Deal !D! damage.",
+    "EXTENDED_DESCRIPTION": [
+      "I don't have exactly 2 cardssss in my hand."
+    ]
+  },
+  "gorgonmod:Retaliation": {
+    "NAME": "Retaliation",
+    "DESCRIPTION": "Whenever you lose HP or Block, gain !M! gorgonmod:Deathgaze.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you lose HP or Block, gain !M! gorgonmod:Deathgaze."
+  },
+  "gorgonmod:BubbleShield": {
+    "NAME": "Bubble Shield",
+    "DESCRIPTION": "Gain !B! Block. NL If the enemy has positive Strength, gain Block equal to their Strength."
+  },
+  "gorgonmod:StoneOfThought": {
+    "NAME": "The Thonker",
+    "DESCRIPTION": "Unplayable. NL Retain. NL Whenever you draw this card, draw !M! cards.",
+    "EXTENDED_DESCRIPTION": [
+      "I can't play thissss card."
+    ]
+  },
+  "gorgonmod:StoneOfDamage": {
+    "NAME": "Leaning Spire of Pisa",
+    "DESCRIPTION": "Unplayable. NL Retain. NL Whenever you draw this card, deal !D! damage to ALL enemies.",
+    "EXTENDED_DESCRIPTION": [
+      "I can't play thissss card."
+    ]
+  },
+  "gorgonmod:StoneOfEnergy": {
+    "NAME": "Passion of the Cultist",
+    "DESCRIPTION": "Unplayable. NL Retain. NL Whenever you draw this card, gain [E] .",
+    "UPGRADE_DESCRIPTION": "Unplayable. NL Retain. NL Whenever you draw this card, gain [E] [E] .",
+    "EXTENDED_DESCRIPTION": [
+      "I can't play thissss card."
+    ]
+  },
+  "gorgonmod:StatueToss": {
+    "NAME": "Statue Toss",
+    "DESCRIPTION": "Discard 1 card. NL Deal !D! damage. NL !M! % chance: Stun the enemy for 1 turn."
+  },
+  "gorgonmod:StoneOfFortitude": {
+    "NAME": "Statute of Libertations",
+    "DESCRIPTION": "Unplayable. NL Retain. NL Whenever you draw this card, gain !M! Temporary_HP.",
+    "EXTENDED_DESCRIPTION": [
+      "I can't play thissss card."
+    ]
+  },
+  "gorgonmod:Mirrorshock": {
+    "NAME": "Mirror Shock",
+    "DESCRIPTION": "At the start of your turn, lose !M! HP, gain [E] , and draw 1 card."
+  },
+  "gorgonmod:Foresight": {
+    "NAME": "Foresight",
+    "DESCRIPTION": "Deal !D! damage. NL Play the top card of your draw pile."
+  },
+  "gorgonmod:BurningEyes": {
+    "NAME": "Burning Eyes",
+    "DESCRIPTION": "Gain !deathGaze! gorgonmod:Deathgaze."
+  },
+  "gorgonmod:StatueShield": {
+    "NAME": "Statue Shield",
+    "DESCRIPTION": "Gain !B! Block. NL Shuffle a Leaning Spire of Pisa into your draw pile.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle an upgraded Leaning Spire of Pisa into your draw pile."
+  },
+  "gorgonmod:SlotMachine": {
+    "NAME": "Slot Machine",
+    "DESCRIPTION": "Play a slot machine.",
+    "UPGRADE_DESCRIPTION": "Play a lucky slot machine."
+  },
+  "gorgonmod:Doomsight": {
+    "NAME": "Doomsight",
+    "DESCRIPTION": "Innate. NL Double your gorgonmod:Deathgaze.",
+    "UPGRADE_DESCRIPTION": "Double your gorgonmod:Deathgaze."
+  },
+  "gorgonmod:LichForm": {
+    "NAME": "Lich Form",
+    "DESCRIPTION": "Gain 12 Invincible. NL If you already have Invincible, lose 3 instead."
+  },
+  "gorgonmod:Ceasefire": {
+    "NAME": "Ceasefire",
+    "DESCRIPTION": "You and ALL enemies gain !M! Intangible."
+  },
+  "gorgonmod:Lifecast": {
+    "NAME": "Lifecast",
+    "DESCRIPTION": "Grave. NL Whenever you lose HP this turn, gain [E] and draw 1 card.",
+    "UPGRADE_DESCRIPTION": "Whenever you lose HP this turn, gain [E] and draw 1 card."
+  },
+  "gorgonmod:SlowDrain": {
+    "NAME": "Slow Drain",
+    "DESCRIPTION": "Enemy loses 1 Strength. NL Gain 1 Strength.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Enemy loses 1 Strength. NL Gain 1 Strength."
+  },
+  "gorgonmod:Amplify": {
+    "NAME": "Spiketime",
+    "DESCRIPTION": "Gain !M! Thorns. NL ALL enemies gain 1 Thorns."
+  },
+  "gorgonmod:Inferno": {
+    "NAME": "Inferno",
+    "DESCRIPTION": "Draw 2 cards, then discard your hand. NL If 9 cards were discarded this way, ALL enemies lose 50 HP."
+  },
+  "gorgonmod:Entrap": {
+    "NAME": "Entrap",
+    "DESCRIPTION": "Lose !M! HP. NL Stun the enemy for 2 turns."
+  },
+  "gorgonmod:StoneOfStun": {
+    "NAME": "Stunning Pose",
+    "DESCRIPTION": "Unplayable. NL Retain. NL Whenever you draw this card, Stun a random enemy for 1 turn.",
+    "UPGRADE_DESCRIPTION": "Unplayable. NL Retain. NL Whenever you draw this card, Stun ALL enemies for 1 turn.",
+    "EXTENDED_DESCRIPTION": [
+      "I can't play thissss card."
+    ]
+  },
+  "gorgonmod:ReflectorShield": {
+    "NAME": "Reflector Shield",
+    "DESCRIPTION": "Gain !B! Block. NL Whenever you lose HP or Block this turn, gain !M! gorgonmod:Deathgaze."
+  },
+  "gorgonmod:Glare": {
+    "NAME": "Glare",
+    "DESCRIPTION": "Gain !deathGaze! gorgonmod:Deathgaze."
+  },
+  "gorgonmod:Defreshment": {
+    "NAME": "Defreshment",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. NL Gain !deathGaze! gorgonmod:Deathgaze."
+  },
+  "gorgonmod:StatueSmash": {
+    "NAME": "Statue Smash",
+    "DESCRIPTION": "Discard 1 card at random. NL Draw !M! card. NL If there is a statue in combat, break it and prevent the next time you would lose HP.",
+    "UPGRADE_DESCRIPTION": "Discard 1 card at random. NL Draw !M! cards. NL If there is a statue in combat, break it and prevent the next time you would lose HP."
+  }
+}

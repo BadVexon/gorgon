@@ -1,0 +1,9 @@
+[
+  {
+    "PROPER_NAME": "Deathgaze",
+    "NAMES": [
+      "deathgaze"
+    ],
+    "DESCRIPTION": "At the start of your turn, ALL enemies with a percentage of HP under your #yDeathgaze turn to stone."
+  }
+]

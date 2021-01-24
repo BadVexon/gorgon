@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80c39395-1dfc-4cc6-90c4-3638e488d81b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/GorgonMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/GorgonMod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/actions/StatueEnemyAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/actions/StatueEnemyAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/cards/LichForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/cards/LichForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/characters/TheGorgon.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/characters/TheGorgon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/powers/RealInvinciblePower.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/powers/RealInvinciblePower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/powers/SnakestancePower.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/powers/SnakestancePower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/powers/StoneSkinPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/powers/StoneSkinPower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/util/TextureLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/util/TextureLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/ModTheSpire.json" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/ModTheSpire.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/1024/bg_attack_default_gray.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/1024/bg_attack_default_gray.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/1024/bg_power_default_gray.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/1024/bg_power_default_gray.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/1024/bg_skill_default_gray.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/1024/bg_skill_default_gray.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/1024/card_default_gray_orb.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/1024/card_default_gray_orb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/512/bg_attack_default_gray.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/512/bg_attack_default_gray.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/512/bg_power_default_gray.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/512/bg_power_default_gray.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/512/bg_skill_default_gray.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/512/bg_skill_default_gray.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/512/card_default_gray_orb.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/512/card_default_gray_orb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/512/card_small_orb.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/512/card_small_orb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/Badge.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/Badge.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/cards/SnakeSkin.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/cards/SnakeSkin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/cards/SnakeSkin_p.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/cards/SnakeSkin_p.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/corpse.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/corpse.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/main.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/main.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/octo.scml" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/octo.scml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer1.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer1d.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer1d.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer2.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer2d.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer2d.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer3.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer3d.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer3d.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer4.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer4d.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer4d.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer5.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer5d.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer5d.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer6.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/layer6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/main.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/main.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/vfx.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/orb/vfx.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/shoulder.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/shoulder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/shoulder2.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/char/octoChar/shoulder2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/charSelect/OctoCharacterBG.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/charSelect/OctoCharacterBG.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/charSelect/OctoCharacterButton.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/charSelect/OctoCharacterButton.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/powers/placeholder_power32.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/powers/placeholder_power32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/powers/placeholder_power84.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/powers/placeholder_power84.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/relics/outline/Avatars_Codex.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/relics/outline/Avatars_Codex.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/relics/outline/Dragon_Shield.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/relics/outline/Dragon_Shield.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/relics/outline/Foresight_Glyph.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/relics/outline/Foresight_Glyph.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/relics/outline/Midas_Mantle.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/relics/outline/Midas_Mantle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/relics/outline/Prayer_Bead.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/relics/outline/Prayer_Bead.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/ui/missing_texture.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/ui/missing_texture.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/localization/eng/GorgonMod-Card-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/localization/eng/GorgonMod-Card-Strings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/localization/eng/GorgonMod-Character-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/localization/eng/GorgonMod-Character-Strings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/localization/eng/GorgonMod-Keyword-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/localization/eng/GorgonMod-Keyword-Strings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/localization/eng/GorgonMod-Power-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/localization/eng/GorgonMod-Power-Strings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/localization/eng/GorgonMod-Relic-Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/localization/eng/GorgonMod-Relic-Strings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/TheGorgon.jar" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/TheGorgon.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/antrun/build-main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/antrun/build-main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/classes/ModTheSpire.json" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/classes/ModTheSpire.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/main.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/main.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/octo.scml" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/octo.scml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/orb/layer1.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/orb/layer1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/orb/layer2.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/orb/layer2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/orb/layer3.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/orb/layer3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/orb/layer4.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/orb/layer4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/orb/layer4d.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/orb/layer4d.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/orb/layer5.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/orb/layer5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/orb/main.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/orb/main.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/orb/vfx.png" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/classes/gorgonmodResources/images/char/octoChar/orb/vfx.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/classes/theGorgon/actions/StatueEnemyAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/classes/theGorgon/actions/StatueEnemyAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/classes/theGorgon/cards/Foresight$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/classes/theGorgon/cards/Foresight$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/classes/theGorgon/cards/Foresight.class" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/classes/theGorgon/cards/Foresight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/classes/theGorgon/cards/LichForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/classes/theGorgon/cards/LichForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/classes/theGorgon/characters/TheGorgon$Enums.class" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/classes/theGorgon/characters/TheGorgon$Enums.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/classes/theGorgon/characters/TheGorgon.class" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/classes/theGorgon/characters/TheGorgon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/classes/theGorgon/powers/RealInvinciblePower.class" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/classes/theGorgon/powers/RealInvinciblePower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheGorgon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/TheGorgon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/TheGorgon/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/localization/eng/GorgonMod-Card-Strings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/cards/AllomanticCircle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/powers/AllomanticPower.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/util/TurnStartCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="20" column="43" selection-end-line="37" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/powers/StoneSkinPower.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>BEAM</find>
+      <find>newHitbox</find>
+      <find>deathgaze</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>gorgonmod</replace>
+      <replace>m</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\edanv\Desktop\Media\STS Mods\gorgonMod\TheGorgon\src\main\java\theGorgon</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/characters/TheGorgon.java" />
+        <option value="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/actions/StatueEnemyAction.java" />
+        <option value="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/powers/RealInvinciblePower.java" />
+        <option value="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/cards/LichForm.java" />
+        <option value="$PROJECT_DIR$/TheGorgon/pom.xml" />
+        <option value="$PROJECT_DIR$/TheGorgon/src/main/resources/ModTheSpire.json" />
+        <option value="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/cards/Backslash.java" />
+        <option value="$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/GorgonMod.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TheGorgon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="TheGorgon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="317" />
+    <option name="y" value="45" />
+    <option name="width" value="1536" />
+    <option name="height" value="934" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gorgonMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gorgonMod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gorgonMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gorgonMod" type="462c0819:PsiDirectoryNode" />
+              <item name="TheGorgon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gorgonMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gorgonMod" type="462c0819:PsiDirectoryNode" />
+              <item name="TheGorgon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gorgonMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gorgonMod" type="462c0819:PsiDirectoryNode" />
+              <item name="TheGorgon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gorgonMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gorgonMod" type="462c0819:PsiDirectoryNode" />
+              <item name="TheGorgon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gorgonMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gorgonMod" type="462c0819:PsiDirectoryNode" />
+              <item name="TheGorgon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="theGorgon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gorgonMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gorgonMod" type="462c0819:PsiDirectoryNode" />
+              <item name="TheGorgon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="theGorgon" type="462c0819:PsiDirectoryNode" />
+              <item name="powers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gorgonMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gorgonMod" type="462c0819:PsiDirectoryNode" />
+              <item name="TheGorgon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="theGorgon" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gorgonMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gorgonMod" type="462c0819:PsiDirectoryNode" />
+              <item name="TheGorgon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gorgonMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gorgonMod" type="462c0819:PsiDirectoryNode" />
+              <item name="TheGorgon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="gorgonmodResources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gorgonMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gorgonMod" type="462c0819:PsiDirectoryNode" />
+              <item name="TheGorgon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="gorgonmodResources" type="462c0819:PsiDirectoryNode" />
+              <item name="localization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gorgonMod" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gorgonMod" type="462c0819:PsiDirectoryNode" />
+              <item name="TheGorgon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="gorgonmodResources" type="462c0819:PsiDirectoryNode" />
+              <item name="localization" type="462c0819:PsiDirectoryNode" />
+              <item name="eng" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580684720541" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80c39395-1dfc-4cc6-90c4-3638e488d81b" name="Default Changelist" comment="" />
+      <created>1564946368888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564946368888</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="317" y="45" width="1536" height="934" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.42750677" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Sudoku" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30125" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.14701897" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/CardIgnore.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/localization/eng/GorgonMod-Keyword-Strings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Steam/steamapps/common/SlayTheSpire/desktop-1.0.jar!/com/megacrit/cardcrawl/vfx/combat/ReaperEffect.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Steam/steamapps/common/SlayTheSpire/desktop-1.0.jar!/com/megacrit/cardcrawl/core/CardCrawlGame.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="129" column="23" selection-start-line="129" selection-start-column="23" selection-end-line="129" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Steam/steamapps/common/SlayTheSpire/desktop-1.0.jar!/com/megacrit/cardcrawl/audio/SoundMaster.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/localization/eng/GorgonMod-Power-Strings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Steam/steamapps/common/SlayTheSpire/desktop-1.0.jar!/images/scenes/defect2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Steam/steamapps/common/SlayTheSpire/desktop-1.0.jar!/images/scenes/defect3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Steam/steamapps/common/SlayTheSpire/desktop-1.0.jar!/images/scenes/defect1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/charSelect/Comic_01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/powers/RealInvinciblePower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/cards/LichForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="36" column="109" selection-start-line="36" selection-start-column="109" selection-end-line="36" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/characters/TheGorgon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="56" column="38" lean-forward="true" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/util/SlotMachineSelectScreenPatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="13" column="13" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/util/CenterGridCardSelectScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/util/StatUpdatePatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/powers/LifecastPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/resources/ModTheSpire.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/cards/AbstractGorgonCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/powers/SnakestancePower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/util/Deathgaze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/relics/SapphireLocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="26" selection-start-line="26" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/powers/ReflectorPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/powers/RetaliationPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/cards/WaterLevel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/cards/StoneOfDamage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/cards/Stoneglare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/cards/StealingStare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/powers/CursedPiercingPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/cards/Backslash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/util/MonsterDeathPatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/util/StatuePatchue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/cards/StatueSmash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/cards/ForbiddenMagic.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/util/GrayscaleShader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/actions/StatueEnemyAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="46" column="56" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
+          <folding>
+            <element signature="e#809#810#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/images/cards/ForbiddenMagic_p.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/util/DraggableStatDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/GorgonMod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/powers/ReflectDebuffsPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="50" selection-start-line="50" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/resources/gorgonmodResources/localization/eng/GorgonMod-Card-Strings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/cards/AllomanticCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/util/TurnStartCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="20" column="43" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/powers/StoneSkinPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TheGorgon/src/main/java/theGorgon/powers/AllomanticPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

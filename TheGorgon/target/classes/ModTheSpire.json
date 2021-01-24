@@ -1,0 +1,11 @@
+{
+  "modid": "TheGorgon",
+  "name": "TheGorgon",
+  "author_list": ["Vex'd"],
+  "description": "A cute gorgon character. Defensive and dangerous!",
+  "version": "1.2.8",
+  "sts_version": "2.0",
+  "mts_version": "3.8.0",
+  "dependencies": ["basemod", "stslib"]
+}
+

@@ -1,0 +1,9 @@
+{
+  "gorgonmod:SapphireLocks": {
+    "NAME": "Sapphire Locks",
+    "FLAVOR": "Hissss!",
+    "DESCRIPTIONS": [
+      "Whenever an #yAttack deals unblocked damage, apply #b1 #yPoison."
+    ]
+  }
+}

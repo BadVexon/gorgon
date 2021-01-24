@@ -1,0 +1,122 @@
+{
+  "gorgonmod:StoneSkinPower": {
+    "NAME": "Snake Skin",
+    "DESCRIPTIONS": [
+      "Reduce all your HP loss by #b",
+      " ."
+    ]
+  },
+  "gorgonmod:RevolvePower": {
+    "NAME": "Revolve",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "gorgonmod:SnakestancePower": {
+    "NAME": "Snake Stance",
+    "DESCRIPTIONS": [
+      "At the end of your turn, gain #b",
+      " #yTemporary #yHP."
+    ]
+  },
+  "gorgonmod:GainGainStrengthPowerPower": {
+    "NAME": "Shackled X",
+    "DESCRIPTIONS": [
+      "In #b2 turns, gains #b",
+      " #yStrength."
+    ]
+  },
+  "gorgonmod:AllomanticPower": {
+    "NAME": "Allomantic Circle",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP or #yBlock this turn, deal #b",
+      " damage to ALL enemies."
+    ]
+  },
+  "gorgonmod:CursedPiercingPower": {
+    "NAME": "Piercing Duplication",
+    "DESCRIPTIONS": [
+      "In #b",
+      " turns, play #b1 #yCursed #yPiercing."
+    ]
+  },
+  "gorgonmod:DoomformPower": {
+    "NAME": "Bzzzt!",
+    "DESCRIPTIONS": [
+      "At the end of your turn, deal #b",
+      " damage to ALL enemies."
+    ]
+  },
+  "gorgonmod:WaterLevelPower": {
+    "NAME": "Water Level",
+    "DESCRIPTIONS": [
+      "At the start of your turn, deal #b",
+      " damage to ALL enemies, then increase this damage by #b5."
+    ]
+  },
+  "gorgonmod:ReflectDebuffsPower": {
+    "NAME": "Reflect Debuffs",
+    "DESCRIPTIONS": [
+      "Reflect Weak and Vulnerable for #b",
+      " turns."
+    ]
+  },
+  "gorgonmod:Cursed": {
+    "NAME": "Cursed",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose #b",
+      "At the start of its turn, loses #b",
+      " HP."
+    ]
+  },
+  "gorgonmod:RetaliationPower": {
+    "NAME": "Retaliation",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP or #yBlock, gain #b",
+      " #yDeathgaze."
+    ]
+  },
+  "gorgonmod:MirrorShockPower": {
+    "NAME": "Mirror Shock",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose #b",
+      " HP, gain ",
+      " and draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "gorgonmod:PossibleNextTurnBlockPower": {
+    "NAME": "En Guard",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP this turn, gain #b",
+      " #yBlock."
+    ]
+  },
+  "gorgonmod:LifecastPower": {
+    "NAME": "Lifecasting",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP this turn, gain ",
+      "  and draw #b",
+      "card.",
+      "cards."
+    ]
+  },
+  "gorgonmod:CrippledPower": {
+    "NAME": "Crippled",
+    "DESCRIPTIONS": [
+      "In #b",
+      " turns, gains #b",
+      " Strength."
+    ]
+  },
+  "gorgonmod:ReflectorPower": {
+    "NAME": "Reflection",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP or #yBlock this turn, gain #b",
+      " #yDeathgaze."
+    ]
+  }
+}
